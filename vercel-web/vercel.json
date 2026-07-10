@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/verify/callback", "destination": "/api/verify/callback" },
+    { "source": "/verify/:token", "destination": "/api/verify/:token" }
+  ]
+}
