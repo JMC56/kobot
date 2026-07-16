@@ -1,9 +1,0 @@
-{
-  "name": "kobot-web",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Capa web de verificación de KoBot (OAuth2 Discord + reCAPTCHA), pensada para desplegarse en Vercel como funciones serverless.",
-  "dependencies": {
-    "mongoose": "^8.5.0"
-  }
-}
